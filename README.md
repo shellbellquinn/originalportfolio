@@ -1,2 +1,2 @@
 # Michelle-Quinn
-About Me Portfolio Site
+My archived original portfolio from Northwestern homework assignment one
